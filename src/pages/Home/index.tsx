@@ -100,7 +100,7 @@ const Home: FC<IHome> = ({history}: IHome) => {
       >
         <AppRouter/>
       </Content>
-      <Footer style={{textAlign: 'center'}}>react-admin-template ©2021 Created by Jomsou@qq.com <a target='_blank' href='https://github.com/zenquan/react-admin-template' rel="noreferrer">github地址</a></Footer>
+      <Footer style={{textAlign: 'center'}}>quantization-data-admin ©2023 Created by Tang <a target='_blank' href='https://github.com/shu11la/quantization-data-admin' rel="noreferrer">github地址</a></Footer>
     </>
   )
 
